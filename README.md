@@ -1,7 +1,9 @@
-#Credential
-##Admin
+# Credential
+
+## Admin
 email: admin@test.com
 password: password
-##User
+
+## User
 email: ahmad.fauzan@example.com
 password: password
